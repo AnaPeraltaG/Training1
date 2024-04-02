@@ -3,7 +3,8 @@
 ###edited document
 
 ##Exercise 0 Importing Data
-
+Hola Analuuuuuu!!!!! 
+  
 library (foreign)
 lab2 <- read.xport("C:/Users/analu/OneDrive - Drexel University/APG organized folder/Education/PhD @ Drexel/Courses/EPI 700_ R/Lectures and labs/2. Coding style- preparing data for analysis/02.0506nhanes_DEMO_D.xpt", header=T)
 View(lab2)
